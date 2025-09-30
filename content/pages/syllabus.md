@@ -2,6 +2,8 @@
 content_type: page
 description: The syllabus section provides the course overview and information about
   assignments and due dates, and the schedule of lecture topics.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

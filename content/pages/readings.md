@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section provides information about the course readings.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -172,7 +174,7 @@ Brady, H., and D. Collier, eds. _Rethinking Social Inquiry: Diverse Tools, Share
 
 Geddes, B. _Paradigms and Sand Castles: Theory Building and Research Design in Comparative Politics_. Ann Arbor, MI: University of Michigan Press, 2003. ISBN: 9780472068357.
 
-{{% resource_link "66155b1c-eefc-4340-8afe-e3739c231ea6" "![Buy at MIT Press](/images/mp_logo.gif)" %}} George, A., and A. Bennett. {{% resource_link "66155b1c-eefc-4340-8afe-e3739c231ea6" "Case _Studies and Theory Development in the Social Sciences_" %}}. Cambridge, MA: MIT Press, 2005, chapter 4. ISBN: 9780262572224.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262572224) George, A., and A. Bennett. [Case _Studies and Theory Development in the Social Sciences_](https://mitpress.mit.edu/9780262572224). Cambridge, MA: MIT Press, 2005, chapter 4. ISBN: 9780262572224.
 
 
 {{< tdclose >}}
@@ -204,7 +206,7 @@ Comparative case method
 
 Van Evera, S. "What Are Case Studies? How Should They Be Performed?" In _Guide to Methods for Students of Political Science_. Ithaca, NY: Cornell University Press, 1997. ISBN: 9780801484575.
 
-{{% resource_link "66155b1c-eefc-4340-8afe-e3739c231ea6" "![Buy at MIT Press](/images/mp_logo.gif)" %}} George, A., and A. Bennett. {{% resource_link "66155b1c-eefc-4340-8afe-e3739c231ea6" "_Case Studies and Theory Development in the Social Sciences_" %}}. Cambridge, MA: MIT Press, 2005, chapter 1. ISBN: 9780262572224.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262572224) George, A., and A. Bennett. [_Case Studies and Theory Development in the Social Sciences_](https://mitpress.mit.edu/9780262572224). Cambridge, MA: MIT Press, 2005, chapter 1. ISBN: 9780262572224.
 
 Geddes, B. "How the Cases you Choose Affect the Answers You Get: Selection Bias and Related Issues." In _Paradigms and Sand Castles: Theory Building and Research Design in Comparative Politics_. Ann Arbor, MI: University of Michigan Press, 2003. ISBN: 9780472068357.
 
